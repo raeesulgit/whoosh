@@ -1,0 +1,1 @@
+This dir will have all files related to whoosh app.
