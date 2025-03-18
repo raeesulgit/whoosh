@@ -1,0 +1,10 @@
+your_project/
+├── main.py
+├── models.py
+├── schemas.py
+├── crud.py
+├── database.py
+├── config.py
+├── utils.py
+├── requirements.txt
+
